@@ -1,0 +1,30 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Grazitti Interactive Engineering Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nikhil Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "joi": "^17.4.0",
+    "lodash": "^4.17.21",
+    "mocha": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-mocha": "^5.2.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.8.2",
+    "nodemon": "^2.0.7",
+    "prettier": "^2.2.1",
+    "standard": "*"
+  }
+}
